@@ -1,8 +1,8 @@
-# 🛍️ Retail Sales Analysis SQL Project
+#  Retail Sales Analysis SQL Project
 
 This project involves analyzing a retail sales dataset using SQL. It focuses on data cleaning, exploration, and solving real business queries to gain insights that can support better decision-making in retail operations.
 
-## 📂 Project Overview
+##  Project Overview
 
 - **Language Used:** MySQL  
 - **Database Name:** `sql_project_1`  
@@ -11,18 +11,18 @@ This project involves analyzing a retail sales dataset using SQL. It focuses on 
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
-### 🔍 Data Cleaning
+###  Data Cleaning
 - Removed all records with missing values across critical columns like `transaction_id`, `sale_date`, `customer_id`, etc.
 - Ensured clean and reliable data for analysis.
 
-### 📊 Data Exploration
+###  Data Exploration
 - Counted total sales and unique customers.  
 - Identified all product categories available in the dataset.  
 - Extracted useful customer and product insights using SQL queries.
 
-### 🧠 Business Queries Solved
+###  Business Queries Solved
 - Sales made on a specific date (`2022-11-05`)  
 - Transactions in the "Clothing" category with quantity ≥ 4 in November 2022  
 - Total sales and order count per category  
@@ -36,7 +36,7 @@ This project involves analyzing a retail sales dataset using SQL. It focuses on 
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 Retail_sales_solve.sql     # Main SQL script for entire analysis
@@ -45,7 +45,7 @@ README.md                  # Project overview and documentation
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - SQL Query Writing  
 - Data Cleaning  
@@ -56,7 +56,7 @@ README.md                  # Project overview and documentation
 
 ---
 
-## 🔗 How to Use
+##  How to Use
 
 1. Open MySQL Workbench or any compatible SQL editor.  
 2. Create a database named `sql_project_1`.  
@@ -65,7 +65,7 @@ README.md                  # Project overview and documentation
 
 ---
 
-## 📌 What's Next
+##  What's Next
 
 In future versions:
 - Add visualizations using Power BI or Tableau.  
@@ -74,6 +74,6 @@ In future versions:
 
 ---
 
-## 🧾 Credits
+##  Credits
 
 This project was independently developed as part of practical SQL learning.
